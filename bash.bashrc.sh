@@ -32,7 +32,7 @@ echo -e '\e[92m                       -:/++oosssyyyyyyso+/:---
                        `-+oshmd`  :NNNNNNmh+
                          `-/oyd: `dNNNNdo-
                            `.-//-yhys+-\e[0m'
-
+echo "    TEMA BY :"
 printf "\e[1;92m   ____  _____  ____  _____       ___   _____  _____  ____     __  ____>
   /    T|     Tl    j|     T     /   \ |     ||     |l    j   /  ]l    j /    T| T
  Y  o  |l__/  | |  T l__/  |    Y     Y|   __j|   __j |  T   /  /  |  T Y  o  || |
